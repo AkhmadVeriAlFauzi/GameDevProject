@@ -9,6 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 3d0bef42e9df5774eafd861468bfaf3c
   - enabled: 1
-    path: Assets/Scenes/BombermanGame.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Level 1.unity
+    guid: ccf3b3420ecdeda4996ca4cb8734dc61
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: d9ad5b74c6506c04d907a9bd0cbb7a5f
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 4a02543305d0654418943a37dbc2b285
+  - enabled: 1
+    path: Assets/Scenes/Finish.unity
+    guid: c751858ef6ef2d04e84cfa8711af983c
   m_configObjects: {}
